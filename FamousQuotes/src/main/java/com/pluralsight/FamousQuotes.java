@@ -14,7 +14,7 @@ public class FamousQuotes {
         System.out.println(quotes[index]);
         }catch (Exception e) {
             System.out.println("Please read instructions and try again :)");
-        
+
 
 
 }
